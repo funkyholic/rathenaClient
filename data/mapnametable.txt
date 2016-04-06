@@ -1,0 +1,1065 @@
+// -------------- 古城副本地图 ---------------
+1@gl_k.rsw#旧的古城骑士团副本1F#
+2@gl_k.rsw#旧的古城骑士团副本2F#
+
+// -------------- 古城梦魇地图 ---------------
+gl_cas02_.rsw#古城地上2F(梦魇)#
+gl_chyard_.rsw#古城地下公墓(梦魇)#
+
+// -------------- 艾可拉珠地图 ---------------
+eclage.rsw#艾可拉珠#
+ecl_fild01.rsw#艾可拉珠开枝散叶的大地#
+ecl_in01.rsw#艾可拉珠室内#
+ecl_in02.rsw#艾可拉珠室内#
+ecl_in03.rsw#艾可拉珠室内#
+ecl_in04.rsw#艾可拉珠室内#
+1@ecl.rsw#艾可拉珠副本#
+ecl_tdun01.rsw#彩虹桥高塔1F#
+ecl_tdun02.rsw#彩虹桥高塔2F#
+ecl_tdun03.rsw#彩虹桥高塔3F#
+ecl_tdun04.rsw#彩虹桥高塔4F#
+ecl_hub01.rsw#艾可拉珠小径#
+que_avan01.rsw#阿凡特研究室#
+
+// -------------- 二期公会密穴地图 ---------------
+gld2_ald.rsw#深渊回廊(英雄之泪)#
+gld2_gef.rsw#深渊回廊(亡者之丘)#
+gld2_pay.rsw#深渊回廊(太古之风)#
+gld2_prt.rsw#深渊回廊(战士之路)#
+gld_dun01_2.rsw#地下公会密穴(斐扬)2F#
+gld_dun02_2.rsw#地下公会密穴(艾尔帕兰)2F#
+gld_dun03_2.rsw#地下公会密穴(普隆德拉)2F#
+gld_dun04_2.rsw#地下公会密穴(吉芬)2F#
+
+// -------------- 金字塔迷宫梦魇密穴地图 ---------------
+moc_prydn1.rsw#金字塔迷宫梦魇密穴1F#
+moc_prydn2.rsw#金字塔迷宫梦魇密穴2F#
+
+// -------------- 遇难船地图 ---------------
+treasure_n1.rsw#依斯鲁得岛遇难船1F#
+treasure_n2.rsw#依斯鲁得岛遇难船2F#
+
+// -------------- 学院地图 ---------------
+iz_ac01_a.rsw#学院A-1楼#
+iz_ac02_a.rsw#学院A-2楼#
+iz_ac01_b.rsw#学院B-1楼#
+iz_ac02_b.rsw#学院B-2楼#
+iz_ac01_c.rsw#学院C-1楼#
+iz_ac02_c.rsw#学院C-2楼#
+iz_ac01_d.rsw#学院D-1楼#
+iz_ac02_d.rsw#学院D-2楼#
+iz_int.rsw#介绍地图#
+iz_int01.rsw#介绍地图#
+iz_int02.rsw#介绍地图#
+iz_int03.rsw#介绍地图#
+iz_int04.rsw#介绍地图#
+iz_ac01.rsw#学院1F#
+iz_ac02.rsw#学院2F#
+iz_ng01.rsw#忍者新手教学地图#
+
+// -------------- 马来港地图 ---------------
+malaya.rsw#马来亚#
+ma_fild01.rsw#巴勒攸 马西瓦哥#
+ma_fild02.rsw#普勒斯特#
+ma_in01.rsw#马来亚室内#
+ma_dun01.rsw#噩梦医院1F#
+ma_zif01.rsw#吉普尼车内部01#
+ma_zif02.rsw#吉普尼车内部02#
+ma_zif03.rsw#吉普尼车内部03#
+ma_zif04.rsw#吉普尼车内部04#
+ma_zif05.rsw#吉普尼车内部05#
+ma_zif06.rsw#吉普尼车内部06#
+ma_zif07.rsw#吉普尼车内部07#
+ma_zif08.rsw#吉普尼车内部08#
+ma_zif09.rsw#吉普尼车内部09#
+1@ma_c.rsw#宝箱巨鳄洞穴#
+1@ma_b.rsw#巴库暴龙藏身处#
+1@ma_h.rsw#噩梦医院2F#
+
+// -------------- 雾林迷宫副本地图 ---------------
+1@mist.rsw#雾林迷宫#
+
+// -------------- 彩虹桥地图 ---------------
+bif_fild01.rsw#彩虹桥南部#
+bif_fild02.rsw#彩虹桥北部#
+que_house_s.rsw#诡异屋子#
+
+// -------------- 穆拉村地图 ---------------
+mora.rsw#草精族穆拉村#
+
+// -------------- 中秋节地图 ---------------
+moonfild.rsw#月球#
+
+// -------------- 绵绵岛地图 ---------------
+malangdo.rsw#绵绵岛#
+mal_in01.rsw#绵绵岛室内#
+mal_in02.rsw#绵绵岛船内部#
+mal_dun01.rsw#星光珊瑚地带#
+1@cash.rsw#绵绵岛章鱼洞穴#
+1@pump.rsw#绵绵岛排水沟1F#
+2@pump.rsw#绵绵岛排水沟2F#
+
+// -------------- 德瓦他地图 ---------------
+dewata.rsw#德瓦他#
+dew_in01.rsw#德瓦他室内#
+dew_fild01.rsw#德瓦他原野(贾提族部落)#
+dew_dun01.rsw#德瓦他密穴1F(喀拉喀托火山岛)#
+dew_dun02.rsw#德瓦他密穴2F(伊斯坦纳洞穴)#
+
+// -------------- 艾尔迪卡斯特地图 ---------------
+dicastes01.rsw#邪派首都 艾尔迪卡斯特#
+dicastes02.rsw#布鲁姆德姚乐希森林#
+dic_in01.rsw#艾尔迪卡斯特室内#
+dic_fild01.rsw#卡米达山麓01#
+dic_fild02.rsw#卡米达山麓02#
+
+// -------------- 甲虫密穴地图 ---------------
+dic_dun01.rsw#甲虫密穴1F(卡米达隧道)#
+dic_dun02.rsw#甲虫密穴2F(斯卡勒伯熔岩洞穴)#
+dic_dun03.rsw#甲虫密穴3F(斯卡勒伯熔岩洞穴)#
+
+// -------------- 伊甸园地图 ---------------
+moc_para01.rsw#伊甸园#
+
+// -------------- 三转转职地图 ---------------
+s_atelier.rsw#影子工坊#
+job3_gen01.rsw#基因学者研究所#
+job3_sha01.rsw#魅影追踪者转职考场#
+job3_arch01.rsw#大主教转职考场01#
+job3_arch02.rsw#大主教转职考场(奥丁神殿)#
+job3_arch03.rsw#大主教转职考场03#
+job3_guil01.rsw#秘密酒店#
+job3_guil02.rsw#破旧的仓库#
+job3_guil03.rsw#偏僻的住宅#
+job3_rang01.rsw#游侠转职等候室#
+job3_rang02.rsw#游侠转职考场#
+job3_rune01.rsw#卢恩骑士转职考场01#
+job3_rune02.rsw#卢恩骑士转职考场02#
+job3_rune03.rsw#卢恩骑士转职考场03#
+job3_war01.rsw#咒术士转职考场01#
+job3_war02.rsw#咒术士转职考场02#
+jupe_core2.rsw#优配擂斯中央#
+
+// -------------- 劳动节活动地图 ---------------
+evt_mobroom.rsw#怪物洞穴#
+
+// -------------- 巴西地图 ---------------
+brasilis.rsw#巴西#
+bra_in01.rsw#巴西内部#
+bra_fild01.rsw#巴西原野#
+bra_dun01.rsw#瀑布内的洞窟1F#
+bra_dun02.rsw#瀑布内的洞窟2F#
+
+// -------------- 尼德霍格的巢穴副本地图 ---------------
+1@nyd.rsw#尼德霍格的巢穴1F#
+2@nyd.rsw#尼德霍格的巢穴2F#
+
+// -------------- 粗暴者的伤口地图 ---------------
+nyd_dun01.rsw#粗暴者的伤口1F#
+nyd_dun02.rsw#粗暴者的伤口2F#
+
+// -------------- 魔怒克地图 ---------------
+manuk.rsw#魔怒克#
+man_in01.rsw#魔怒克室内#
+man_fild01.rsw#魔怒克原野01#
+man_fild02.rsw#魔怒克原野02#
+man_fild03.rsw#魔怒克原野03#
+
+// -------------- 史波浪壮丽地图 ---------------
+splendide.rsw#史波浪壮丽#
+spl_in01.rsw#史波浪壮丽室内#
+spl_in02.rsw#史波浪壮丽室内#
+spl_fild01.rsw#史波浪壮丽原野01#
+spl_fild02.rsw#史波浪壮丽原野02#
+spl_fild03.rsw#史波浪壮丽原野03#
+
+// -------------- 米德加尔特联合营地地图 ---------------
+mid_camp.rsw#米德加尔特联合营地#
+mid_campin.rsw#米德加尔特联合营地室内#
+que_dan01.rsw#毁葛原野#
+que_dan02.rsw#朱诺的废弃建筑室内#
+
+// -------------- SE城战密穴地图 ---------------
+schg_que01.rsw#莫尔斯敦草地(朱诺)#
+schg_dun01.rsw#地下公会密穴(朱诺)#
+arug_que01.rsw#莫尔斯敦草地(拉赫)#
+arug_dun01.rsw#地下公会密穴(拉赫)#
+
+// -------------- 兽人副本地图 ---------------
+1@orcs.rsw#兽人地下密穴1F#
+2@orcs.rsw#兽人地下密穴2F#
+
+// -------------- 巴风特副本地图 ---------------
+1@cata.rsw#封印的神殿1F#
+2@cata.rsw#封印的神殿2F#
+
+// -------------- 无限塔地图 ---------------
+e_tower.rsw#神秘岛(无限塔前)#
+1@tower.rsw#无限塔1F～25F#
+2@tower.rsw#无限塔26F～50F#
+3@tower.rsw#无限塔51F～75F#
+4@tower.rsw#无限塔76F～99F#
+5@tower.rsw#无限塔100F#
+6@tower.rsw#无限塔101F～102F#
+
+// -------------- 洞穴村落地图 ---------------
+cave.rsw#洞穴村落#
+
+// -------------- 战场地图 ---------------
+bat_room.rsw#战场等候室#
+bat_a01.rsw#提耶拉峡谷01#
+bat_a02.rsw#提耶拉峡谷02#
+bat_b01.rsw#瀑拉毕乌斯峡谷01#
+bat_b02.rsw#瀑拉毕乌斯峡谷02#
+bat_c01.rsw#KVM战场(80等以上)#
+bat_c02.rsw#KVM战场(60～80等)#
+bat_c03.rsw#KVM战场(60等以下)#
+
+// -------------- 莫斯科比亚地图 ---------------
+moscovia.rsw#莫斯科比亚#
+mosk_in.rsw#莫斯科比亚室内#
+mosk_ship.rsw#船舶#
+mosk_fild01.rsw#莫斯科比亚原野#
+mosk_fild02.rsw#莫斯科比亚原野#
+mosk_dun01.rsw#森林洞穴1F#
+mosk_dun02.rsw#森林洞穴2F#
+mosk_dun03.rsw#森林洞穴3F#
+mosk_que.rsw#莫斯科比亚任务#
+
+// -------------- 波士尼亚地图 ---------------
+bossnia_01.rsw#波士尼亚01#
+bossnia_02.rsw#波士尼亚02#
+bossnia_03.rsw#波士尼亚03#
+bossnia_04.rsw#波士尼亚04#
+itemmall.rsw#商城地图#
+
+// -------------- 波利对决场地图 ---------------
+poring_w01.rsw#波利对决场等候室#
+poring_w02.rsw#波利对决场#
+
+// -------------- 无名岛地图 ---------------
+nameless_i.rsw#无名岛(白天)#
+nameless_n.rsw#无名岛(夜晚)#
+nameless_in.rsw#无名岛室内#
+abbey01.rsw#无名岛修道院1F#
+abbey02.rsw#无名岛修道院2F#
+abbey03.rsw#无名岛修道院3F#
+
+// -------------- Z集团地图 ---------------
+z_agit.rsw#Z集团的秘密基地#
+
+// -------------- 朱诺新神器制造任务地图 ---------------
+que_qsch01.rsw#虚像的奥克尼勒01(朱诺)#
+que_qsch02.rsw#虚像的奥克尼勒02(朱诺)#
+que_qsch03.rsw#虚像的奥克尼勒03(朱诺)#
+que_qsch04.rsw#虚像的奥克尼勒04(朱诺)#
+que_qsch05.rsw#虚像的奥克尼勒05(朱诺)#
+
+// -------------- 拉赫新神器制造任务地图 ---------------
+que_qaru01.rsw#虚像的奥克尼勒01(拉赫)#
+que_qaru02.rsw#虚像的奥克尼勒02(拉赫)#
+que_qaru03.rsw#虚像的奥克尼勒03(拉赫)#
+que_qaru04.rsw#虚像的奥克尼勒04(拉赫)#
+que_qaru05.rsw#虚像的奥克尼勒05(拉赫)#
+
+// -------------- 朱诺SE城战地图 ---------------
+sch_gld.rsw#朱诺尼它堆#
+schg_cas01.rsw#喜民(朱诺右下)#
+schg_cas02.rsw#安得郎克(朱诺右上)#
+schg_cas03.rsw#毕得布莱因(朱诺左中)#
+schg_cas04.rsw#何料德(朱诺左下)#
+schg_cas05.rsw#思凯提乐尼(朱诺左上)#
+
+// -------------- 拉赫SE城战地图 ---------------
+aru_gld.rsw#拉赫发菲依雅#
+arug_cas01.rsw#马勒杜(拉赫左上)#
+arug_cas02.rsw#希乐(拉赫左下)#
+arug_cas03.rsw#霍伦(拉赫左中)#
+arug_cas04.rsw#吉本(拉赫右上)#
+arug_cas05.rsw#巴拿迪斯(拉赫右下)#
+
+// -------------- 菲音斯地图 ---------------
+veins.rsw#峡谷村落 菲音斯#
+ve_in.rsw#菲音斯室内#
+ve_in02.rsw#菲音斯室内#
+ve_fild01.rsw#菲音斯原野01#
+ve_fild02.rsw#菲音斯原野02#
+ve_fild03.rsw#菲音斯原野03(火山外)#
+ve_fild04.rsw#菲音斯原野04#
+ve_fild05.rsw#菲音斯原野05#
+ve_fild06.rsw#菲音斯原野06#
+ve_fild07.rsw#菲音斯原野07(往无名岛)#
+
+// -------------- 索尔火山地图 ---------------
+thor_camp.rsw#索尔火山兵站基地#
+que_thor.rsw#索尔火山任务洞穴#
+thor_v01.rsw#索尔火山洞穴1F#
+thor_v02.rsw#索尔火山洞穴2F#
+thor_v03.rsw#索尔火山洞穴3F#
+
+// -------------- 月宫廷地图 ---------------
+que_moon.rsw#月宫廷#
+que_moc_16.rsw#月宫廷魔物田#
+
+// -------------- 公会对抗竞技场地图 ---------------
+06guild_r.rsw#公会对抗竞技场等候室#
+06guild_01.rsw#公会对抗竞技场01#
+06guild_02.rsw#公会对抗竞技场02#
+06guild_03.rsw#公会对抗竞技场03#
+06guild_04.rsw#公会对抗竞技场04#
+06guild_05.rsw#公会对抗竞技场05#
+06guild_06.rsw#公会对抗竞技场06#
+06guild_07.rsw#公会对抗竞技场07#
+06guild_08.rsw#公会对抗竞技场08#
+
+// -------------- 拉赫地图 ---------------
+rachel.rsw#阿卢纳贝兹 教国首都 拉赫#
+ra_in01.rsw#拉赫室内#
+ra_temple.rsw#菲依雅大神殿(瑟斯隆尼勒)#
+ra_temin.rsw#神殿内部#
+que_rachel.rsw#昏暗的神殿内部#
+ra_temsky.rsw#教皇执勤室(空中庭园)#
+ra_fild01.rsw#阿巫敦拉草原01(冰洞外)#
+ra_fild02.rsw#欧兹峡谷02#
+ra_fild03.rsw#伊达平原03#
+ra_fild04.rsw#阿巫敦拉草原04#
+ra_fild05.rsw#阿巫敦拉草原05#
+ra_fild06.rsw#浦勒吐卢纳06#
+ra_fild07.rsw#欧兹峡谷07#
+ra_fild08.rsw#伊达平原08#
+ra_fild09.rsw#阿巫敦拉草原09#
+ra_fild10.rsw#欧兹峡谷10#
+ra_fild11.rsw#伊达平原11(拉赫西门外)#
+ra_fild12.rsw#伊达平原12(拉赫东门外)#
+ra_fild13.rsw#眼泪之海岸#
+ra_san01.rsw#神殿圣域1F#
+ra_san02.rsw#神殿圣域2F#
+ra_san03.rsw#神殿圣域3F#
+ra_san04.rsw#神殿圣域4F#
+ra_san05.rsw#神殿圣域5F#
+que_temsky.rs#教皇执勤室(天空庭园)#
+
+// -------------- 冰洞穴地图 ---------------
+ice_dun01.rsw#冰洞穴1F#
+ice_dun02.rsw#冰洞穴2F#
+ice_dun03.rsw#冰洞穴3F#
+ice_dun04.rsw#冰洞穴4F#
+
+// -------------- 毁葛地图 ---------------
+hugel.rsw#田园都市 毁葛#
+hu_in01.rsw#毁葛室内#
+que_bingo.rsw#宾果游戏竞赛场#
+que_hugel.rsw#奥丁神殿地下#
+p_track01.rsw#魔物赛跑竞赛场01#
+p_track02.rsw#魔物赛跑竞赛场02#
+hu_fild01.rsw#达纳托斯塔台#
+hu_fild02.rsw#毁葛原野02#
+hu_fild03.rsw#毁葛原野03#
+hu_fild04.rsw#毁葛原野04#
+hu_fild05.rsw#深渊湖水05#
+hu_fild06.rsw#毁葛原野06(毁葛外)#
+hu_fild07.rsw#毁葛原野07#
+
+// -------------- 奥丁神殿地图 ---------------
+odin_tem01.rsw#奥丁神殿1F#
+odin_tem02.rsw#奥丁神殿2F#
+odin_tem03.rsw#奥丁神殿3F#
+
+// -------------- 启海伊洛别墅地图 ---------------
+kh_mansion.rsw#启海伊洛官邸#
+kh_vila.rsw#启海伊洛别墅#
+kh_school.rsw#启海伊洛学院#
+kh_rossi.rsw#罗希米爱乐家官邸#
+kh_kiehl01.rsw#齐尔的房间#
+kh_kiehl02.rsw#齐尔的最后房间#
+kh_dun01.rsw#机械人型工厂1F#
+kh_dun02.rsw#机械人型工厂2F#
+
+// -------------- 拍卖场地图 ---------------
+auction_01.rsw#拍卖场01#
+auction_02.rsw#拍卖场02#
+
+// -------------- 秘密酒店地图 ---------------
+que_job01.rsw#秘密酒店01#
+que_job02.rsw#秘密酒店02#
+que_job03.rsw#秘密酒店03#
+
+// -------------- 龙洞地图 ---------------
+abyss_01.rsw#深渊湖水地下洞穴1F#
+abyss_02.rsw#深渊湖水地下洞穴2F#
+abyss_03.rsw#深渊湖水地下洞穴3F#
+
+// -------------- 达纳托斯塔台地图 ---------------
+tha_t01.rsw#达纳托斯塔台1F#
+tha_t02.rsw#达纳托斯塔台2F#
+tha_t03.rsw#达纳托斯塔台3F#
+tha_t04.rsw#达纳托斯塔台4F#
+tha_t05.rsw#达纳托斯塔台5F#
+tha_t06.rsw#达纳托斯塔台6F#
+tha_t07.rsw#达纳托斯塔台7F#
+tha_t08.rsw#达纳托斯塔台8F#
+tha_t09.rsw#达纳托斯塔台9F#
+tha_t10.rsw#达纳托斯塔台10F#
+tha_t11.rsw#达纳托斯塔台11F#
+tha_t12.rsw#达纳托斯塔台12F#
+thana_step.rsw#达纳托斯塔台上层部#
+thana_boss.rsw#达纳托斯塔台(不知名的地方)#
+tha_scene01.rsw#达纳托斯塔台前面#
+
+// -------------- 跆拳考试地图 ---------------
+job_soul.rsw#你的心#
+job_star.rsw#太阳和月亮和星星#
+
+// -------------- 优配擂斯地图 ---------------
+jupe_cave.rsw#优配擂斯洞穴入口#
+juperos_01.rsw#优配擂斯废墟1F#
+juperos_02.rsw#优配擂斯废墟2F#
+jupe_gate.rsw#优配擂斯保安区域#
+jupe_area1.rsw#优配擂斯保安区域#
+jupe_area2.rsw#优配擂斯保安区域#
+jupe_ele.rsw#优配擂斯电梯#
+jupe_ele_r.rsw#优配擂斯电梯室#
+jupe_core.rsw#优配擂斯中心部#
+
+// -------------- 里希塔乐镇地图 ---------------
+lighthalzen.rsw#企业之都 里希塔乐镇#
+lhz_in01.rsw#雷根贝勒总公司#
+lhz_in02.rsw#里希塔乐镇室内#
+lhz_in03.rsw#里希塔乐镇室内#
+lhz_cube.rsw#正立方体房间#
+lhz_que01.rsw#里希塔乐镇室内#
+lhz_fild01.rsw#里希塔乐镇原野01(北门外)#
+lhz_fild03.rsw#里希塔乐镇原野02#
+lhz_fild02.rsw#里希塔乐镇原野03(死神的峡谷)#
+
+// -------------- 研究所地图 ---------------
+lhz_dun01.rsw#生体试验研究所1F#
+lhz_dun02.rsw#生体试验研究所2F#
+lhz_dun03.rsw#生体试验研究所3F#
+lhz_dun04.rsw#生体试验研究所4F#
+que_lhz.rsw#生体试验研究所(任务)#
+1@lhz.rsw#保罗协夫研究室#
+
+// -------------- 飞空艇地图 ---------------
+airplane.rsw#飞空艇#
+airplane_01.rsw#飞空艇#
+airport.rsw#艾音布罗克机场#
+y_airport.rsw#朱诺机场#
+lhz_airport.rsw#里希塔乐镇机场#
+
+// -------------- 艾音布罗克地图 ---------------
+einbroch.rsw#钢铁之都 艾音布罗克#
+ein_in01.rsw#艾音布罗克室内#
+ein_fild01.rsw#艾音布罗克原野01#
+ein_fild02.rsw#艾音布罗克原野02#
+ein_fild03.rsw#艾音布罗克原野03#
+ein_fild04.rsw#艾音布罗克原野04(北门外)#
+ein_fild05.rsw#艾音布罗克原野05#
+ein_fild06.rsw#艾音布罗克原野06#
+ein_fild07.rsw#艾音布罗克原野07#
+ein_fild08.rsw#艾音布罗克原野08(南门外)#
+ein_fild09.rsw#艾音布罗克原野09#
+ein_fild10.rsw#艾音布罗克原野10#
+
+// -------------- 艾音贝赫地图 ---------------
+einbech.rsw#采矿村落 艾音贝赫#
+ein_dun01.rsw#矿山洞穴1F#
+ein_dun02.rsw#矿山洞穴2F#
+
+// -------------- 竞速场地竞赛场地图 ---------------
+turbo_room.rsw#竞速场地等待室#
+turbo_e_4.rsw#竞速场地竞赛场#
+turbo_e_8.rsw#竞速场地竞赛场#
+turbo_e_16.rsw#竞速场地竞赛场#
+turbo_n_1.rsw#竞速场地竞赛场#
+turbo_n_4.rsw#竞速场地竞赛场#
+turbo_n_8.rsw#竞速场地竞赛场#
+turbo_n_16.rsw#竞速场地竞赛场#
+
+// -------------- 哎哟泰雅地图 ---------------
+ayothaya.rsw#哎哟泰雅#
+ayo_in01.rsw#哎哟泰雅室内#
+ayo_in02.rsw#哎哟泰雅室内#
+ayo_dun01.rsw#古代神殿迷宫1F#
+ayo_dun02.rsw#古代神殿迷宫2F#
+ayo_fild01.rsw#哎哟泰雅原野01#
+ayo_fild02.rsw#哎哟泰雅原野02#
+
+// -------------- 十字星地图 ---------------
+n_castle.rsw#十字星#
+nguild_prt.rsw#十字星仙境#
+nguild_gef.rsw#十字星天下#
+
+// -------------- 神器任务地图 ---------------
+que_god01.rsw#神器制作01#
+que_god02.rsw#神器制作02#
+
+// -------------- 未知地图 ---------------
+que_ba.rsw#不知名的地方#
+
+// -------------- 任务地图 ---------------
+que_sign01.rsw#The Sign任务(冥府)#
+que_sign02.rsw#The Sign任务#
+
+// -------------- 益智考试地图 ---------------
+quiz_test.rsw#益智考试场#
+
+// -------------- 葛帔尼亚地图 ---------------
+gefenia01.rsw#葛帔尼亚(右下)#
+gefenia02.rsw#葛帔尼亚(右上)#
+gefenia03.rsw#葛帔尼亚(左上)#
+gefenia04.rsw#葛帔尼亚(左下)#
+
+// -------------- 爪哇咿地图 ---------------
+jawaii.rsw#蜜月岛 爪哇咿#
+jawaii_in.rsw#爪哇咿室内#
+
+// -------------- 洛阳地图 ---------------
+louyang.rsw#古都 龙之城(洛阳)#
+lou_in01.rsw#龙之城室内#
+lou_in02.rsw#龙之城室内#
+lou_dun01.rsw#洛阳地下1F(外王陵)#
+lou_dun02.rsw#洛阳地下2F(内王陵)#
+lou_dun03.rsw#洛阳地下3F(审良宫)#
+lou_fild01.rsw#洛阳南门外#
+
+// -------------- 巴基力神殿地图 ---------------
+himinn.rsw#巴基力神殿#
+valkyrie.rsw#巴基力神殿(伟大战士们的殿堂)#
+
+// -------------- 尼芙菲姆地图 ---------------
+niflheim.rsw#死者国家 尼芙菲姆#
+nif_in.rsw#尼芙菲姆室内#
+nif_fild01.rsw#斯凯领顿(尼芙菲姆 偏远村落)#
+nif_fild02.rsw#鬼的峡谷(尼芙菲姆外)#
+
+// -------------- 汶巴拉地图 ---------------
+umbala.rsw#雨檀族村落 汶巴拉#
+um_dun01.rsw#汶巴拉地下1F#
+um_dun02.rsw#汶巴拉地下2F#
+um_in.rsw#汶巴拉室内#
+um_fild01.rsw#噜噜卡森林#
+um_fild02.rsw#沪家森林#
+um_fild03.rsw#卡拉拉森林#
+um_fild04.rsw#汶巴拉外#
+yggdrasil01.rsw#禾贝勒开米勒之岛(天地树干)#
+
+// -------------- 巴哈拉宫地图 ---------------
+sec_in01.rsw#巴哈拉宫室内#
+sec_in02.rsw#巴哈拉宫室内#
+sec_pri.rsw#巴哈拉宫反省的房间(监狱)#
+
+// -------------- 昆仑地图 ---------------
+gonryun.rsw#神仙之岛 昆仑#
+gon_test.rsw#昆仑战斗场#
+gon_dun01.rsw#昆仑地下1F(西王母神殿)#
+gon_dun02.rsw#昆仑地下2F(神仙的围棋台)#
+gon_dun03.rsw#昆仑地下3F(武陵道院)#
+gon_fild01.rsw#昆仑原野#
+gon_in.rsw#昆仑室内#
+
+// -------------- 天津町地图 ---------------
+amatsu.rsw#天水之国 天津町#
+ama_test.rsw#摩摩塔乐体验所#
+ama_dun01.rsw#天津町地下1F(榻榻米迷宫)#
+ama_dun02.rsw#天津町地下2F(地下战场)#
+ama_dun03.rsw#天津町地下3F(地下神舍)#
+ama_in01.rsw#天津町室内#
+ama_in02.rsw#天津町城内#
+ama_fild01.rsw#天津町原野#
+
+// -------------- 枪手及忍者考场地图 ---------------
+que_ng.rsw#枪手及忍者转职所#
+
+// -------------- 炼金术师考场地图 ---------------
+alde_alche.rsw#炼金术师转职所#
+
+// -------------- 舞娘考场地图 ---------------
+job_duncer.rsw#克魔岛小剧场(舞娘转职考试场)#
+
+// -------------- 贤者考场地图 ---------------
+job_sage.rsw#贤者转职考试场#
+
+// -------------- 十字军考场地图 ---------------
+job_cru.rsw#十字军转职考试场#
+
+// -------------- 武道家考场地图 ---------------
+job_monk.rsw#圣卡毕利那修道院(武道家转职考试场)#
+monk_test.rsw#圣卡毕利那修道院(武道家转职所)#
+
+// -------------- 流氓考场地图 ---------------
+in_rogue.rsw#流氓工会室内#
+
+// -------------- 诺可罗德地图 ---------------
+mag_dun01.rsw#诺可罗德(火洞1F)#
+mag_dun02.rsw#诺可罗德(火洞2F)#
+
+// -------------- 朱诺地图 ---------------
+yuno.rsw#修发兹共和国首都 朱诺#
+yuno_fild01.rsw#艾尔帕兰北门外#
+yuno_fild02.rsw#启海伊洛别墅#
+yuno_fild03.rsw#尔迈斯瀑雷德#
+yuno_fild04.rsw#朱诺南门外#
+yuno_in01.rsw#朱诺室内#
+yuno_in02.rsw#贤者城堡室内#
+yuno_in03.rsw#朱诺室内#
+yuno_in04.rsw#朱诺室内#
+yuno_in05.rsw#伊美乐的心脏动力室#
+yuno_fild05.rsw#尔迈斯瀑雷德#
+yuno_fild06.rsw#尔迈斯瀑雷德#
+yuno_fild07.rsw#优配擂斯外#
+yuno_fild08.rsw#启海伊洛学院#
+yuno_fild09.rsw#秀发兹发德警备队露营地#
+yuno_fild10.rsw#朱诺原野#
+yuno_fild11.rsw#朱诺原野#
+yuno_fild12.rsw#国界检查站(艾尔帕兰西北方)#
+yuno_pre.rsw#秀发兹发德政府厅舍#
+
+// -------------- 城战密穴地图 ---------------
+gld_dun01.rsw#地下公会密穴(斐扬)#
+gld_dun02.rsw#地下公会密穴(艾尔帕兰)#
+gld_dun03.rsw#地下公会密穴(普隆德拉)#
+gld_dun04.rsw#地下公会密穴(吉芬)#
+
+// -------------- 斐扬城战地图 ---------------
+pay_gld.rsw#青林湖泊#
+payg_cas01.rsw#明亭(斐扬左上)#
+payg_cas02.rsw#天坛(斐扬右下)#
+payg_cas03.rsw#佛影(斐扬右上)#
+payg_cas04.rsw#红楼(斐扬左下)#
+payg_cas05.rsw#竹林岘(斐扬中上)#
+
+// -------------- 艾尔帕兰城战地图 ---------------
+alde_gld.rsw#艾尔帕兰卫星都市 露依纳#
+aldeg_cas01.rsw#娜易修番斯塔引(新城左下)#
+aldeg_cas02.rsw#乎汗修番佳乌(新城左上)#
+aldeg_cas03.rsw#纽蓝贝勒克(新城中下)#
+aldeg_cas04.rsw#布勒刺布勒克(新城右上)#
+aldeg_cas05.rsw#罗探布勒克(新城右下)#
+
+// -------------- 吉芬城战地图 ---------------
+gef_fild13.rsw#怖立特离亚#
+gefg_cas01.rsw#雷普立温(吉芬中下)#
+gefg_cas02.rsw#耀布力格(吉芬右上)#
+gefg_cas03.rsw#易司那普(吉芬左上)#
+gefg_cas04.rsw#培勒格(吉芬中上)#
+gefg_cas05.rsw#眉撒丝达刺(吉芬右下)#
+
+// -------------- 普隆德拉城战地图 ---------------
+prt_gld.rsw#巴基力雷恩#
+prtg_cas01.rsw#克林希特(中央左下)#
+prtg_cas02.rsw#斯般希特(中央右下)#
+prtg_cas03.rsw#拉兹立克斯(中央中间)#
+prtg_cas04.rsw#司葵古(中央左上)#
+prtg_cas05.rsw#关德(中央右上)#
+
+// -------------- 乌龟岛地图 ---------------
+tur_dun01.rsw#乌龟岛#
+tur_dun02.rsw#乌龟岛密穴1F#
+tur_dun03.rsw#乌龟岛密穴2F#
+tur_dun04.rsw#乌龟岛密穴3F#
+tur_dun05.rsw#乌龟岛密穴4F#
+tur_dun06.rsw#乌龟岛密穴5F#
+
+// -------------- 公会对抗竞技场地图 ---------------
+guild_vs1.rsw#公会对抗竞技场01#
+guild_vs2.rsw#公会对抗竞技场02#
+guild_vs3.rsw#公会对抗竞技场03#
+guild_vs4.rsw#公会对抗竞技场04#
+guild_vs5.rsw#公会对抗竞技场05#
+guild_room.rsw#公会对抗竞技场休息室#
+
+// -------------- OX益智游戏竞赛场地图 ---------------
+quiz_00.rsw#OX益智游戏竞赛场01#
+quiz_01.rsw#OX益智游戏竞赛场02#
+quiz_02.rsw#OX益智游戏竞赛场03#
+
+// -------------- 克魔岛地图 ---------------
+comodo.rsw#海边之都 克魔岛#
+beach_dun.rsw#西边洞穴 加露#
+beach_dun2.rsw#北边洞穴 卢安达#
+beach_dun3.rsw#东边洞穴 马吾#
+cmd_fild01.rsw#巴不其卡森林#
+cmd_fild02.rsw#克克魔海边#
+cmd_fild03.rsw#基乃依沼泽地#
+cmd_fild04.rsw#克克魔海边#
+cmd_fild05.rsw#巴不其卡森林边界#
+cmd_fild06.rsw#要塞都市 山特乐曼(西边)#
+cmd_fild07.rsw#发乐斯 灯塔岛#
+cmd_fild08.rsw#要塞都市 山特乐曼(东边)#
+cmd_fild09.rsw#要塞都市 山特乐曼(南边)#
+cmd_in01.rsw#克魔岛室内#
+cmd_in02.rsw#克魔岛室内(赌场)#
+
+// -------------- 姜饼城地图 ---------------
+xmas.rsw#白雪村落 姜饼城#
+xmas_in.rsw#姜饼城室内#
+xmas_fild01.rsw#姜饼城原野#
+xmas_dun01.rsw#玩具分类场1F#
+xmas_dun02.rsw#玩具分类场2F#
+
+// -------------- 初学者修炼场地图 ---------------
+new_1-1.rsw#初学者修炼场1-1#
+new_2-1.rsw#初学者修炼场1-2#
+new_3-1.rsw#初学者修炼场3-1#
+new_4-1.rsw#初学者修炼场4-1#
+new_5-1.rsw#初学者修炼场5-1#
+new_1-2.rsw#初学者修炼场1-2#
+new_2-2.rsw#初学者修炼场2-2#
+new_3-2.rsw#初学者修炼场3-2#
+new_4-2.rsw#初学者修炼场4-2#
+new_5-2.rsw#初学者修炼场5-2#
+new_1-3.rsw#初学者修炼场1-3#
+new_2-3.rsw#初学者修炼场2-3#
+new_3-3.rsw#初学者修炼场3-3#
+new_4-3.rsw#初学者修炼场4-3#
+new_5-3.rsw#初学者修炼场5-3#
+new_1-4.rsw#初学者修炼场1-4#
+new_2-4.rsw#初学者修炼场2-4#
+new_3-4.rsw#初学者修炼场3-4#
+new_4-4.rsw#初学者修炼场4-4#
+new_5-4.rsw#初学者修炼场5-4#
+
+// -------------- 蚁洞地图 ---------------
+anthell01.rsw#蚂蚁地狱密穴1F#
+anthell02.rsw#蚂蚁地狱密穴2F#
+
+// -------------- 猎人考场地图 ---------------
+in_hunter.rsw#猎人转职所#
+hunter_1-1.rsw#猎人转职所第1阶段#
+hunter_2-1.rsw#猎人转职所第2阶段#
+hunter_3-1.rsw#猎人转职所第3阶段#
+job_hunte.rsw#猎人转职考场#
+
+// -------------- 骑士考场地图 ---------------
+knight_1-1.rsw#骑士转职所第1阶段#
+knight_2-1.rsw#骑士转职所第2阶段#
+knight_3-1.rsw#骑士转职所第3阶段#
+job_knt.rsw#骑士转职考场#
+
+// -------------- 祭司考场地图 ---------------
+priest_1-1.rsw#祭司转职所第1阶段#
+priest_2-1.rsw#祭司转职所第2阶段#
+priest_3-1.rsw#祭司转职所第3阶段#
+job_prist.rsw#祭司转职考场#
+
+// -------------- 剑士考场地图 ---------------
+sword_1-1.rsw#剑士转职所第1阶段#
+sword_2-1.rsw#剑士转职所第2阶段#
+sword_3-1.rsw#剑士转职所第3阶段#
+
+// -------------- 盗贼考场地图 ---------------
+job_thief1.rsw#盗贼转职所#
+
+// -------------- 巫师考场地图 ---------------
+wizard_1-1.rsw#巫师转职所第1阶段#
+wizard_2-1.rsw#巫师转职所第2阶段#
+wizard_3-1.rsw#巫师转职所第3阶段#
+job_wiz.rsw#巫师转职考场#
+
+// -------------- 战斗地图 ---------------
+force_1-1.rsw#限时激斗模式#
+force_2-1.rsw#限时激斗模式#
+force_3-1.rsw#限时激斗模式#
+force_1-2.rsw#限时激斗模式#
+force_2-2.rsw#限时激斗模式#
+force_3-2.rsw#限时激斗模式#
+force_1-3.rsw#限时激斗模式#
+force_2-3.rsw#限时激斗模式#
+force_3-3.rsw#限时激斗模式#
+ordeal_1-1.rsw#团体战斗模式#
+ordeal_2-1.rsw#团体战斗模式#
+ordeal_3-1.rsw#团体战斗模式#
+ordeal_1-2.rsw#团体战斗模式#
+ordeal_2-2.rsw#团体战斗模式#
+ordeal_3-2.rsw#团体战斗模式#
+ordeal_1-3.rsw#团体战斗模式#
+ordeal_2-3.rsw#团体战斗模式#
+ordeal_3-3.rsw#团体战斗模式#
+ordeal_1-4.rsw#团体战斗模式#
+ordeal_2-4.rsw#团体战斗模式#
+ordeal_3-4.rsw#团体战斗模式#
+
+// -------------- 艾尔贝塔地图 ---------------
+alberta.rsw#港口之都 艾尔贝塔#
+alberta_in.rsw#艾尔贝塔室内#
+alb2trea.rsw#沉船附近的岛屿#
+alb_ship.rsw#艾尔贝塔船舶室内#
+treasure01.rsw#沉没之船1F#
+treasure02.rsw#沉没之船2F#
+
+// -------------- 艾尔帕兰地图 ---------------
+aldebaran.rsw#运河之都 艾尔帕兰#
+aldeba_in.rsw#艾尔帕兰室内#
+
+// -------------- 吉芬地图 ---------------
+geffen.rsw#魔法之都 吉芬#
+geffen_in.rsw#吉芬室内#
+gef_tower.rsw#吉芬中央塔#
+orcsdun01.rsw#兽人地下洞窟1F#
+orcsdun02.rsw#兽人地下洞窟2F#
+gef_dun00.rsw#吉芬地下密穴1F#
+gef_dun01.rsw#吉芬地下密穴2F#
+gef_dun02.rsw#吉芬地下密穴3F#
+gef_dun03.rsw#吉芬地下密穴4F#
+gef_fild00.rsw#吉芬东门外#
+gef_fild01.rsw#吉芬区域#
+gef_fild02.rsw#吉芬区域#
+gef_fild03.rsw#吉芬区域#
+gef_fild04.rsw#吉芬北门外#
+gef_fild05.rsw#吉芬区域#
+gef_fild06.rsw#吉芬区域(古城外)#
+gef_fild07.rsw#吉芬西门外#
+gef_fild08.rsw#吉芬区域#
+gef_fild09.rsw#吉芬南门外#
+gef_fild10.rsw#东边兽人村落#
+gef_fild11.rsw#吉芬区域#
+gef_fild12.rsw#克特森林#
+gef_fild14.rsw#西边兽人村落#
+in_orcs01.rsw#兽人村落室内#
+
+// -------------- 梦罗克地图 ---------------
+morocc.rsw#沙漠之都 梦罗克#
+morocc_in.rsw#梦罗克室内#
+moc_ruins.rsw#梦罗克金字塔迷宫外#
+moc_castle.rsw#梦罗克城内#
+in_sphinx1.rsw#史芬克斯密穴1F#
+in_sphinx2.rsw#史芬克斯密穴2F#
+in_sphinx3.rsw#史芬克斯密穴3F#
+in_sphinx4.rsw#史芬克斯密穴4F#
+in_sphinx5.rsw#史芬克斯密穴5F#
+moc_pryd01.rsw#金字塔迷宫1F#
+moc_pryd02.rsw#金字塔迷宫2F#
+moc_pryd03.rsw#金字塔迷宫3F#
+moc_pryd04.rsw#金字塔迷宫4F#
+moc_pryd05.rsw#金字塔迷宫地下2F#
+moc_pryd06.rsw#金字塔迷宫地下3F#
+moc_fild01.rsw#苏克拉特沙漠#
+moc_fild02.rsw#苏克拉特沙漠#
+moc_fild03.rsw#苏克拉特沙漠#
+moc_fild04.rsw#苏克拉特沙漠(蚁洞2F外)#
+moc_fild05.rsw#苏克拉特沙漠#
+moc_fild06.rsw#苏克拉特沙漠#
+moc_fild07.rsw#梦罗克北门外#
+moc_fild08.rsw#苏克拉特沙漠#
+moc_fild09.rsw#苏克拉特沙漠#
+moc_fild10.rsw#梦罗克东门外#
+moc_fild11.rsw#苏克拉特沙漠#
+moc_fild12.rsw#梦罗克南门外#
+moc_fild13.rsw#苏克拉特沙漠#
+moc_fild14.rsw#苏克拉特沙漠#
+moc_fild15.rsw#苏克拉特沙漠(蚁洞1F外)#
+moc_fild16.rsw#苏克拉特沙漠(刺客工会外)#
+moc_fild17.rsw#苏克拉特沙漠#
+moc_fild18.rsw#苏克拉特沙漠#
+moc_fild19.rsw#史芬克斯密穴外#
+moc_fild20.rsw#梦罗克东门外#
+moc_fild21.rsw#时空的裂缝(魔王梦罗克)#
+moc_fild22.rsw#时空的裂缝(负伤梦罗克)#
+moc_fild22b.rsw#时空的裂缝(往异世界)#
+moc_prydb1.rsw#金字塔迷宫地下1F(盗贼工会)#
+in_moc_16.rsw#刺客工会#
+
+// -------------- 斐扬地图 ---------------
+payon.rsw#山岳之都 斐扬#
+payon_in01.rsw#斐扬室内#
+payon_in02.rsw#斐扬弓箭手村室内#
+payon_in03.rsw#斐扬中央宫内#
+pay_arche.rsw#斐扬弓箭手村#
+pay_dun00.rsw#斐扬地下1F#
+pay_dun01.rsw#斐扬地下2F#
+pay_dun02.rsw#斐扬地下3F#
+pay_dun03.rsw#斐扬地下4F#
+pay_dun04.rsw#斐扬地下5F#
+pay_fild01.rsw#斐扬南门外#
+pay_fild02.rsw#斐扬下2#
+pay_fild03.rsw#艾尔贝塔西门外#
+pay_fild04.rsw#波利岛#
+pay_fild05.rsw#斐扬树林#
+pay_fild06.rsw#艾尔贝塔左1下1#
+pay_fild07.rsw#斐扬右1下1#
+pay_fild08.rsw#斐扬东门外#
+pay_fild09.rsw#斐扬右2#
+pay_fild10.rsw#斐扬右2下1#
+pay_fild11.rsw#斐扬树林#
+
+// -------------- 普隆德拉地图 ---------------
+prontera.rsw#卢恩米德加兹王国首都 普隆德拉#
+prt_in.rsw#普隆德拉室内#
+prt_castle.rsw#普隆德拉城内#
+prt_church.rsw#普隆德拉圣堂内#
+monk_in.rsw#圣卡毕利那修道院室内#
+prt_maze01.rsw#迷藏森林1F#
+prt_maze02.rsw#迷藏森林2F#
+prt_maze03.rsw#迷藏森林3F#
+prt_sewb1.rsw#普隆德拉地下水道1F#
+prt_sewb2.rsw#普隆德拉地下水道2F#
+prt_sewb3.rsw#普隆德拉地下水道3F#
+prt_sewb4.rsw#普隆德拉地下水道4F#
+mjo_dun01.rsw#妙勒尼废弃矿场1F#
+mjo_dun02.rsw#妙勒尼废弃矿场2F#
+mjo_dun03.rsw#妙勒尼废弃矿场3F#
+mjolnir_01.rsw#妙勒尼山脉#
+mjolnir_02.rsw#妙勒尼废弃矿场外#
+mjolnir_03.rsw#妙勒尼山脉#
+mjolnir_04.rsw#妙勒尼山脉#
+mjolnir_05.rsw#妙勒尼山脉#
+mjolnir_06.rsw#妙勒尼山脉#
+mjolnir_07.rsw#妙勒尼山脉#
+mjolnir_08.rsw#妙勒尼山脉#
+mjolnir_09.rsw#妙勒尼山脉#
+mjolnir_10.rsw#妙勒尼山脉#
+mjolnir_11.rsw#妙勒尼山脉#
+mjolnir_12.rsw#艾尔帕兰南门外#
+prt_fild00.rsw#普隆德拉区域#
+prt_fild01.rsw#普隆德拉北门外#
+prt_fild02.rsw#普隆德拉区域#
+prt_fild03.rsw#圣卡毕利那修道院外#
+prt_fild04.rsw#普隆德拉区域#
+prt_fild05.rsw#普隆德拉西门外#
+prt_fild06.rsw#普隆德拉东门外#
+prt_fild07.rsw#普隆德拉左1下1#
+prt_fild08.rsw#普隆德拉南门外#
+prt_fild09.rsw#普隆德拉左1下2#
+prt_fild10.rsw#普隆德拉左2下2#
+prt_fild11.rsw#普隆德拉左3下3#
+prt_monk.rsw#圣卡毕利那修道院#
+prt_fild08a.rsw#普隆德拉区域A#
+prt_fild08b.rsw#普隆德拉区域B#
+prt_fild08c.rsw#普隆德拉区域C#
+prt_fild08d.rsw#普隆德拉区域D#
+
+// -------------- 依斯鲁得岛地图 ---------------
+izlude.rsw#卫星都市 依斯鲁得岛#
+izlude_in.rsw#卫星都市 依斯鲁得岛室内#
+izlu2dun.rsw#柏伊亚岚岛#
+iz_dun00.rsw#海底洞窟1F#
+iz_dun01.rsw#海底洞窟2F#
+iz_dun02.rsw#海底洞窟3F#
+iz_dun03.rsw#海底洞窟4F#
+iz_dun04.rsw#海底洞窟5F#
+iz_dun05.rsw#海底洞窟6F#
+izlude_a.rsw#卫星都市 依斯鲁得岛A#
+izlude_b.rsw#卫星都市 依斯鲁得岛B#
+izlude_c.rsw#卫星都市 依斯鲁得岛C#
+izlude_d.rsw#卫星都市 依斯鲁得岛D#
+
+// -------------- 亚雷那竞技场地图 ---------------
+prt_are_in.rsw#亚雷那等候室内#
+arena_room.rsw#亚雷那等候大厅#
+prt_arena01.rsw#亚雷那#
+prt_are01.rsw#亚雷那#
+
+// -------------- 钟塔地图 ---------------
+alde_dun01.rsw#钟塔地下1F#
+alde_dun02.rsw#钟塔地下2F#
+alde_dun03.rsw#钟塔地下3F#
+alde_dun04.rsw#钟塔地下4F#
+c_tower1.rsw#钟塔地上1F#
+c_tower2.rsw#钟塔地上2F#
+c_tower3.rsw#钟塔地上3F#
+c_tower4.rsw#钟塔地上4F#
+
+// -------------- 古城地图 ---------------
+glast_01.rsw#克雷斯特汉姆古城#
+gl_cas01.rsw#古城地上1F#
+gl_cas02.rsw#古城地上2F#
+gl_church.rsw#古城修道院#
+gl_chyard.rsw#古城地下公墓#
+gl_dun01.rsw#古城地下洞窟1F#
+gl_dun02.rsw#古城地下洞窟2F#
+gl_in01.rsw#古城图书馆#
+gl_knt01.rsw#古城骑士团1F#
+gl_knt02.rsw#古城骑士团2F#
+gl_prison.rsw#古城地下监狱1F#
+gl_prison1.rsw#古城地下监狱2F#
+gl_sew01.rsw#古城地下水道1F#
+gl_sew02.rsw#古城地下水道2F#
+gl_sew03.rsw#古城地下水道3F#
+gl_sew04.rsw#古城地下水道4F#
+gl_step.rsw#古城楼梯密穴#
+
+// -------------- PVP地图 ---------------
+pvp_y_room.rsw#PvP等待室#
+pvp_n_room.rsw#PvP等待室#
+pvp_n_1-1.rsw#PvP三明治房间01#
+pvp_n_2-1.rsw#PvP三明治房间02#
+pvp_n_3-1.rsw#PvP三明治房间03#
+pvp_n_4-1.rsw#PvP三明治房间04#
+pvp_n_5-1.rsw#PvP三明治房间05#
+pvp_n_6-1.rsw#PvP三明治房间06#
+pvp_n_7-1.rsw#PvP三明治房间07#
+pvp_n_8-1.rsw#PvP三明治房间08#
+pvp_n_1-2.rsw#PvP雷达锁定房间01#
+pvp_n_2-2.rsw#PvP雷达锁定房间02#
+pvp_n_3-2.rsw#PvP雷达锁定房间03#
+pvp_n_4-2.rsw#PvP雷达锁定房间04#
+pvp_n_5-2.rsw#PvP雷达锁定房间05#
+pvp_n_6-2.rsw#PvP雷达锁定房间06#
+pvp_n_7-2.rsw#PvP雷达锁定房间07#
+pvp_n_8-2.rsw#PvP雷达锁定房间08#
+pvp_n_1-3.rsw#PvP四通道房间01#
+pvp_n_2-3.rsw#PvP四通道房间02#
+pvp_n_3-3.rsw#PvP四通道房间03#
+pvp_n_4-3.rsw#PvP四通道房间04#
+pvp_n_5-3.rsw#PvP四通道房间05#
+pvp_n_6-3.rsw#PvP四通道房间06#
+pvp_n_7-3.rsw#PvP四通道房间07#
+pvp_n_8-3.rsw#PvP四通道房间08#
+pvp_n_1-4.rsw#PvP反十字房间01#
+pvp_n_2-4.rsw#PvP反十字房间02#
+pvp_n_3-4.rsw#PvP反十字房间03#
+pvp_n_4-4.rsw#PvP反十字房间04#
+pvp_n_5-4.rsw#PvP反十字房间05#
+pvp_n_6-4.rsw#PvP反十字房间06#
+pvp_n_7-4.rsw#PvP反十字房间07#
+pvp_n_8-4.rsw#PvP反十字房间08#
+pvp_n_1-5.rsw#PvP罗盘房间01#
+pvp_n_2-5.rsw#PvP罗盘房间02#
+pvp_n_3-5.rsw#PvP罗盘房间03#
+pvp_n_4-5.rsw#PvP罗盘房间04#
+pvp_n_5-5.rsw#PvP罗盘房间05#
+pvp_n_6-5.rsw#PvP罗盘房间06#
+pvp_n_7-5.rsw#PvP罗盘房间07#
+pvp_n_8-5.rsw#PvP罗盘房间08#
+pvp_y_1-1.rsw#普隆德拉PvP竞技场(01)#
+pvp_y_2-1.rsw#普隆德拉PvP竞技场(02)#
+pvp_y_3-1.rsw#普隆德拉PvP竞技场(03)#
+pvp_y_4-1.rsw#普隆德拉PvP竞技场(04)#
+pvp_y_5-1.rsw#普隆德拉PvP竞技场(05)#
+pvp_y_6-1.rsw#普隆德拉PvP竞技场(06)#
+pvp_y_7-1.rsw#普隆德拉PvP竞技场(07)#
+pvp_y_8-1.rsw#普隆德拉PvP竞技场(08)#
+pvp_y_1-2.rsw#依斯鲁得岛PvP竞技场(01)#
+pvp_y_2-2.rsw#依斯鲁得岛PvP竞技场(02)#
+pvp_y_3-2.rsw#依斯鲁得岛PvP竞技场(03)#
+pvp_y_4-2.rsw#依斯鲁得岛PvP竞技场(04)#
+pvp_y_5-2.rsw#依斯鲁得岛PvP竞技场(05)#
+pvp_y_6-2.rsw#依斯鲁得岛PvP竞技场(06)#
+pvp_y_7-2.rsw#依斯鲁得岛PvP竞技场(07)#
+pvp_y_8-2.rsw#依斯鲁得岛PvP竞技场(08)#
+pvp_y_1-3.rsw#斐扬PvP竞技场(01)#
+pvp_y_2-3.rsw#斐扬PvP竞技场(02)#
+pvp_y_3-3.rsw#斐扬PvP竞技场(03)#
+pvp_y_4-3.rsw#斐扬PvP竞技场(04)#
+pvp_y_5-3.rsw#斐扬PvP竞技场(05)#
+pvp_y_6-3.rsw#斐扬PvP竞技场(06)#
+pvp_y_7-3.rsw#斐扬PvP竞技场(07)#
+pvp_y_8-3.rsw#斐扬PvP竞技场(08)#
+pvp_y_1-4.rsw#艾尔贝塔PvP竞技场(01)#
+pvp_y_2-4.rsw#艾尔贝塔PvP竞技场(02)#
+pvp_y_3-4.rsw#艾尔贝塔PvP竞技场(03)#
+pvp_y_4-4.rsw#艾尔贝塔PvP竞技场(04)#
+pvp_y_5-4.rsw#艾尔贝塔PvP竞技场(05)#
+pvp_y_6-4.rsw#艾尔贝塔PvP竞技场(06)#
+pvp_y_7-4.rsw#艾尔贝塔PvP竞技场(07)#
+pvp_y_8-4.rsw#艾尔贝塔PvP竞技场(08)#
+pvp_y_1-5.rsw#梦罗克PvP竞技场(01)#
+pvp_y_2-5.rsw#梦罗克PvP竞技场(02)#
+pvp_y_3-5.rsw#梦罗克PvP竞技场(03)#
+pvp_y_4-5.rsw#梦罗克PvP竞技场(04)#
+pvp_y_5-5.rsw#梦罗克PvP竞技场(05)#
+pvp_y_6-5.rsw#梦罗克PvP竞技场(06)#
+pvp_y_7-5.rsw#梦罗克PvP竞技场(07)#
+pvp_y_8-5.rsw#梦罗克PvP竞技场(08)#
+pvp_2vs2.rsw#PvP活动竞技场#
